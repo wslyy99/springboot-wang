@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-common/springboot-wang-common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-common/springboot-wang-common-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-gengerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-lib-pagination" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-persist" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-wang-web-apigateway" charset="UTF-8" />
+  </component>
+</project>

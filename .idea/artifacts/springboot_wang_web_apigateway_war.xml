@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-wang-web-apigateway:war">
+    <output-path>$PROJECT_DIR$/springboot-wang-web-apigateway/target</output-path>
+    <root id="archive" name="springboot-wang-start.war">
+      <element id="artifact" artifact-name="springboot-wang-web-apigateway:war exploded" />
+    </root>
+  </artifact>
+</component>

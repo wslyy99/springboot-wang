@@ -1,0 +1,5 @@
+com\springboot\wang\lib\pagination\PagePlugin.class
+com\springboot\wang\lib\pageination\dialect\MysqlDialect.class
+com\springboot\wang\lib\pageination\dialect\Dialect.class
+com\springboot\wang\lib\pageination\utils\ReflectUtils.class
+com\springboot\wang\lib\pagination\Page.class

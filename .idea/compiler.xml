@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-springboot-wang-common" />
+        <module name="springboot-wang-activemq" />
+        <module name="springboot-wang-common-utils" />
+        <module name="springboot-wang-common-web" />
+        <module name="springboot-wang-config" />
+        <module name="springboot-wang-core" />
+        <module name="springboot-wang-domain" />
+        <module name="springboot-wang-dubbo-client" />
+        <module name="springboot-wang-dubbo-server" />
+        <module name="springboot-wang-facade" />
+        <module name="springboot-wang-gengerator" />
+        <module name="springboot-wang-lib-pagination" />
+        <module name="springboot-wang-netty" />
+        <module name="springboot-wang-persist" />
+        <module name="springboot-wang-service" />
+        <module name="springboot-wang-utils" />
+        <module name="springboot-wang-web-apigateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="com-springboot-wang-common" target="1.8" />
+      <module name="com-springboot-wang-common-b" target="1.8" />
+      <module name="springboot-wang" target="1.8" />
+      <module name="springboot-wang-activemq" target="1.8" />
+      <module name="springboot-wang-common" target="1.8" />
+      <module name="springboot-wang-common-a" target="1.8" />
+      <module name="springboot-wang-common-utils" target="1.8" />
+      <module name="springboot-wang-common-web" target="1.8" />
+      <module name="springboot-wang-config" target="1.8" />
+      <module name="springboot-wang-core" target="1.8" />
+      <module name="springboot-wang-domain" target="1.8" />
+      <module name="springboot-wang-dubbo-client" target="1.8" />
+      <module name="springboot-wang-dubbo-server" target="1.8" />
+      <module name="springboot-wang-facade" target="1.8" />
+      <module name="springboot-wang-gengerator" target="1.8" />
+      <module name="springboot-wang-lib-pagination" target="1.8" />
+      <module name="springboot-wang-netty" target="1.8" />
+      <module name="springboot-wang-persist" target="1.8" />
+      <module name="springboot-wang-service" target="1.8" />
+      <module name="springboot-wang-utils" target="1.8" />
+      <module name="springboot-wang-web-apigateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
